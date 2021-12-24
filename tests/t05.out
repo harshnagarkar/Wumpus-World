@@ -1,0 +1,61 @@
+ a b c
+ d - e
+ f g h
+
+ a b c
+ - d e
+ f g h
+
+ - b c
+ a d e
+ f g h
+
+ b - c
+ a d e
+ f g h
+
+ b c -
+ a d e
+ f g h
+
+ b c e
+ a d -
+ f g h
+
+ b c e
+ a - d
+ f g h
+
+ b - e
+ a c d
+ f g h
+
+ - b e
+ a c d
+ f g h
+
+ a b e
+ - c d
+ f g h
+
+ a b e
+ c - d
+ f g h
+
+ a b e
+ c d -
+ f g h
+
+ a b -
+ c d e
+ f g h
+
+ a - b
+ c d e
+ f g h
+
+ - a b
+ c d e
+ f g h
+
+Total nodes: 16526, max depth is: 14
